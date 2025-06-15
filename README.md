@@ -65,7 +65,7 @@ portfolio/
 
 - [GitHub](https://github.com/subhankardey11)
 - [LinkedIn](https://linkedin.com/in/subhankardey11)
-
+- [Twitter](https://twitter.com/subhankardey11)
 
 ## License
 
